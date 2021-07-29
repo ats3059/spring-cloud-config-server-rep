@@ -1,3 +1,5 @@
 taeseon:
  profile: I'm dev Taeseon 
- comment : Hello! Jsp Spring Cloud Bus Update!
+ comment: Hello! Jsp Spring Cloud Bus Update!
+ microService:
+  id: taeseon-service
