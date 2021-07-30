@@ -2,4 +2,4 @@ taeseon:
  profile: I'm dev Taeseon 
  comment: Hello! Update Taeseon 
  microService:
-  id: rest-service
+  id: test-service
